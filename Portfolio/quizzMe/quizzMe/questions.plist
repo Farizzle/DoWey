@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+ Quotes
+ -->
+<plist version="1.0">
+    <array>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>Where do plants get their energy from?</string>
+            <key>ans1</key>  <string>The Wind</string>
+            <key>ans2</key>  <string>The Sun</string>
+            <key>ans3</key>  <string>The Animals</string>
+            <key>ans4</key>  <string>Redbull</string>
+            <key>answer</key>  <string>2</string>
+            <key>tip</key>  <string>Plants grow best during the day time</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>Plants are called producers because?</string>
+            <key>ans1</key>  <string>They make music</string>
+            <key>ans2</key>  <string>They're green</string>
+            <key>ans3</key>  <string>They make their own food</string>
+            <key>ans4</key>  <string>They're used to make herbal tea</string>
+            <key>answer</key>  <string>3</string>
+            <key>tip</key>  <string>The food chain starts with plants</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>Animals do not make their own food, so they're known as?</string>
+            <key>ans1</key>  <string>Consumers</string>
+            <key>ans2</key>  <string>Beasts</string>
+            <key>ans3</key>  <string>Monsters</string>
+            <key>ans4</key>  <string>Hungry</string>
+            <key>answer</key>  <string>1</string>
+            <key>tip</key>  <string>Animals "_______" other things in order to get energy</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>Animals are consumers, so what do they eat?</string>
+            <key>ans1</key>  <string>Plants and other Animals</string>
+            <key>ans2</key>  <string>McDonalds</string>
+            <key>ans3</key>  <string>Gluten-free products only</string>
+            <key>ans4</key>  <string>Dirt</string>
+            <key>answer</key>  <string>1</string>
+            <key>tip</key>  <string>You're an animal, what do you eat?</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>What is a predator?</string>
+            <key>ans1</key>  <string>Arnold Swarzenegger's arch nemesis</string>
+            <key>ans2</key>  <string>A creepy mustached man</string>
+            <key>ans3</key>  <string>A missile</string>
+            <key>ans4</key>  <string>Animals that eat other animals</string>
+            <key>answer</key>  <string>4</string>
+            <key>tip</key>  <string>Predators like to hunt for food</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>What is an example of a predator?</string>
+            <key>ans1</key>  <string>Snails</string>
+            <key>ans2</key>  <string>Tigers</string>
+            <key>ans3</key>  <string>Michael Jackson</string>
+            <key>ans4</key>  <string>Adidas boots</string>
+            <key>answer</key>  <string>2</string>
+            <key>tip</key>  <string>You don't want to be left alone with this</string>
+        </dict>
+
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>If you're being eaten by another animal you are?</string>
+            <key>ans1</key>  <string>Prey</string>
+            <key>ans2</key>  <string>Unfortunate</string>
+            <key>ans3</key>  <string>Dead</string>
+            <key>ans4</key>  <string>Not seeing tomorrow</string>
+            <key>answer</key>  <string>1</string>
+            <key>tip</key>  <string>The strong have always preyed upon the weak</string>
+        </dict>
+        
+        
+        <dict>
+            <key>category</key>  <string>classic</string>
+            <key>question</key>  <string>What is an example of prey?</string>
+            <key>ans1</key>  <string>Sunday Mass</string>
+            <key>ans2</key>  <string>Grace</string>
+            <key>ans3</key>  <string>Sharks</string>
+            <key>ans4</key>  <string>Rabbits</string>
+            <key>answer</key>  <string>4</string>
+            <key>tip</key>  <string>What's up doc?</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>What's the correct term for animals that only eat meat?</string>
+            <key>ans1</key>  <string>Meat eaters</string>
+            <key>ans2</key>  <string>Savages</string>
+            <key>ans3</key>  <string>Carnivores</string>
+            <key>ans4</key>  <string>Vegetable intolerent</string>
+            <key>answer</key>  <string>3</string>
+            <key>tip</key>  <string>Carnival has some delicious meat dishes</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>Which animal below is a carnivore?</string>
+            <key>ans1</key>  <string>Wolf</string>
+            <key>ans2</key>  <string>Turtle</string>
+            <key>ans3</key>  <string>Sheep</string>
+            <key>ans4</key>  <string>Horse</string>
+            <key>answer</key>  <string>1</string>
+            <key>tip</key>  <string>These animals require the high energy from meat to survive in the cold</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>What's the correct term for animals that only eat plants?</string>
+            <key>ans1</key>  <string>Vegetarian</string>
+            <key>ans2</key>  <string>Herbivore</string>
+            <key>ans3</key>  <string>Animal friendly</string>
+            <key>ans4</key>  <string>Green</string>
+            <key>answer</key>  <string>2</string>
+            <key>tip</key>  <string>Herbs are plants</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>Which animal below is a herbivore?</string>
+            <key>ans1</key>  <string>Whale</string>
+            <key>ans2</key>  <string>Fox</string>
+            <key>ans3</key>  <string>T-Rex</string>
+            <key>ans4</key>  <string>Giraffe</string>
+            <key>answer</key>  <string>4</string>
+            <key>tip</key>  <string>These animals have long necks to reach the leafs on high up trees</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>What's the correct term for animals that eat both meat and plants?</string>
+            <key>ans1</key>  <string>Hungry</string>
+            <key>ans2</key>  <string>Very hungry</string>
+            <key>ans3</key>  <string>Very very hungry</string>
+            <key>ans4</key>  <string>Omnivore</string>
+            <key>answer</key>  <string>4</string>
+            <key>tip</key>  <string>Omni means all</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>Which animal below is a omnivore?</string>
+            <key>ans1</key>  <string>Eagles</string>
+            <key>ans2</key>  <string>Humans</string>
+            <key>ans3</key>  <string>Gold Fish</string>
+            <key>ans4</key>  <string>Snakes</string>
+            <key>answer</key>  <string>2</string>
+            <key>tip</key>  <string>Pizzas come with a variety of different toppings</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>Which order is correct?</string>
+            <key>ans1</key>  <string>Producer -> Prey -> Predator</string>
+            <key>ans2</key>  <string>Producer -> Predator -> Prey</string>
+            <key>ans3</key>  <string>Predator -> Prey -> Producer</string>
+            <key>ans4</key>  <string>Prey -> Producer -> Predator</string>
+            <key>answer</key>  <string>1</string>
+            <key>tip</key>  <string>Plants start food chains and are eaten by other animals which are then eaten by larger animals</string>
+        </dict>
+        
+        <dict>
+            <key>category</key>  <string>modern</string>
+            <key>question</key>  <string>What food chain is correct?</string>
+            <key>ans1</key>  <string>Carrot -> Fox -> Rabbit</string>
+            <key>ans2</key>  <string>Seaweed -> Shark -> Fish</string>
+            <key>ans3</key>  <string>Carrot -> Rabbit -> Fox</string>
+            <key>ans4</key>  <string>Lettuce -> Human -> Rabbit</string>
+            <key>answer</key>  <string>3</string>
+            <key>tip</key>  <string>Producer -> Prey -> Predator</string>
+        </dict>       
+        
+    </array>
+</plist>
